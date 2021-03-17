@@ -1,5 +1,6 @@
 body {
-  background-color: black;
+  background-color: orange;
+  font-family: Tahoma, sans-serif;
 }
 
 .jj {
@@ -15,9 +16,10 @@ body {
 }
 
 .header {
+  font-size: 2em;
   margin-top: 2em;
   margin-bottom: 2em;
-  color: #C1B492;
+  color: black;
   text-align: center;
 }
 
@@ -44,4 +46,12 @@ a:hover {
 	
 a:active {
 	color:#d2738a;
+}
+
+img {
+  width: 100%;
+}
+
+#play {
+  width: 100%;
 }
